@@ -15,3 +15,7 @@ console.table({
   dataStored: typeof dataStored,
   accountPassword: typeof accountPassword
 })
+
+console.log(typeof undefined); // undefined
+console.log(typeof null);
+
