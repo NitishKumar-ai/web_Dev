@@ -18,23 +18,6 @@ console.log(1 + "8");
 console.log("1" + 2 + 3);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 console.table({
     score: typeof score,
     valueInNumber: typeof valueInNumber,
